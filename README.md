@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="./assets/header.svg" alt="Jovem Programador — Guia do Estudante" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://www.jovemprogramador.com.br/"><img src="https://www.jovemprogramador.com.br/images/jovemprogramador_logo.png" alt="Jovem Programador" height="56" /></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Atualizado-Novembro_2026-230254?style=for-the-badge" alt="Atualizado em novembro de 2026" />
+  <img src="https://img.shields.io/badge/Senac-Santa_Catarina-48108B?style=for-the-badge" alt="Senac Santa Catarina" />
+  <img src="https://img.shields.io/badge/Jovem-Programador-F244AC?style=for-the-badge" alt="Jovem Programador" />
+</div>
+
 # 🎓 Licenças e Benefícios Estudantis — Senac SC
 
 > **Atualizado em:** Novembro de 2026 · **Autor:** [@dunkelhai](https://github.com/dunkelhai) (Prof. Alysson Borges)
